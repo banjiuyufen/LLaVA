@@ -450,8 +450,7 @@ If you find LLaVA useful for your research and applications, please cite using t
 
 ## Acknowledgement
 
-- [Vicuna](https://github.com/lm-sys/FastChat): the codebase we built upon, and our base model Vicuna-13B that has the amazing language capabilities!
-
+This work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (No.XDA0450202), Beijing Municipal Science and Technology Project (No.Z231100010323005), CAS Project for Young Scientists in Basic Research (YSBR-083), and 2035 Innovation Mission Project (No.E4J10102). This work is supported by the PaddlePaddle team (https://www.paddlepaddle.org.cn/).
 ## Related Projects
 
 - [Instruction Tuning with GPT-4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
